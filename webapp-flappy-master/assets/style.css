@@ -1,0 +1,26 @@
+h1 {
+  color: red;
+  font-weight: bold;
+  font-size:  50;
+
+}
+
+p{
+  color: blue;
+
+
+}
+
+.number{
+color: green;
+}
+.letter{
+color: yellow;
+}
+ #a{
+   color : orange;
+ }
+
+ #c{
+   color : lightgreen;
+ }
